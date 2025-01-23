@@ -43,6 +43,32 @@ This will launch the **To-Do List** application.
 ![image](https://github.com/user-attachments/assets/99609785-cd30-498d-a454-66a7b8532494)
 
 ## Credits
-## Current Enhancements
+
+## Current Feature Changes
+1. **GUI Implementation**  
+   - Replaces text-based interaction with a PyQt5 GUI, including widgets like `QListWidget` and `QLineEdit`.
+
+2. **Persistent Data Storage**  
+   - Introduces `tasks.json` for saving and loading tasks, ensuring data is retained across sessions.
+
+3. **Task Addition**  
+   - Tasks are added through a `QLineEdit`, with validation to prevent empty input.
+
+4. **Task Deletion**  
+   - Tasks are deleted via GUI selection in `QListWidget`, with error handling for unselected tasks.
+
+5. **User Feedback**  
+   - Replaces console messages with GUI warnings using `QMessageBox`.
+
+6. **Styling and Layout**  
+   - Enhances appearance with `QVBoxLayout` and styled header labels.
+
+7. **Code Organization**  
+   - Encapsulates functionality in a `ToDoApp` class for better structure.
+
+8. **Error Handling**  
+   - Handles file-related errors and invalid user input gracefully.
+
+
 ## Future Enhancements
 
