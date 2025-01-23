@@ -40,5 +40,6 @@ This will launch the **To-Do List** application.
 - Tasks will persist across app restarts, allowing users to pick up where they left off.
 
 ## Screenshots
-(Screenshot section can be added here once the app is running)
+![image](https://github.com/user-attachments/assets/99609785-cd30-498d-a454-66a7b8532494)
+
 
