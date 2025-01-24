@@ -55,8 +55,13 @@ This project was inspired by the tutorial: Build a Simple To-Do List in Python (
 7. **Code Organization:** Encapsulates functionality in a `ToDoApp` class for better structure.
 8. **Error Handling:** Handles file-related errors and invalid user input gracefully.
 
-
-
-
 ## Future Enhancements
+The following features are planned for future updates to make the application more dynamic and user-friendly:
+
+1. **Drag and Drop:** Enable users to rearrange tasks directly within the task list by dragging and dropping items for better organization.
+2. **Deadlines and Reminders:** Add the ability to set deadlines for tasks and provide reminders via notifications.
+3. **Task Categorization:** Allow users to categorize tasks based on priority levels (e.g., High, Medium, Low) for easier prioritization.
+4. **Progress Tracking:** Introduce a system to track progress, such as marking tasks as "In Progress" or "Completed," along with visual progress indicators.
+
+
 
