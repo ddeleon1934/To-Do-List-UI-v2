@@ -43,6 +43,7 @@ This will launch the **To-Do List** application.
 ![image](https://github.com/user-attachments/assets/99609785-cd30-498d-a454-66a7b8532494)
 
 ## Credits
+This project was inspired by the tutorial: Build a Simple To-Do List in Python (https://www.youtube.com/watch?v=aEIHZDv_23U). Building upon the tutorial, the current feature changes in the next section were made to improve and enhance the application
 
 ## Current Feature Changes
 1. **GUI Implementation**  
