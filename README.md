@@ -46,8 +46,7 @@ This will launch the **To-Do List** application.
 This project was inspired by the tutorial: Build a Simple To-Do List in Python (https://www.youtube.com/watch?v=aEIHZDv_23U). Building upon the tutorial, the current feature changes in the next section were made to improve and enhance the application
 
 ## Current Feature Changes
-1. **GUI Implementation**  
-   - Replaces text-based interaction with a PyQt5 GUI, including widgets like `QListWidget` and `QLineEdit`.
+1. **GUI Implementation:** Replaces text-based interaction with a PyQt5 GUI, including widgets like `QListWidget` and `QLineEdit`.
 2. **Persistent Data Storage**  
    - Introduces `tasks.json` for saving and loading tasks, ensuring data is retained across sessions.
 3. **Task Addition**  
